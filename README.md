@@ -46,7 +46,7 @@ There are many excellent and popular filament buffer designs out there, such as 
 
 The latest firmware is [provided by Prusa](https://help.prusa3d.com/downloads/mmu2/firmware). Perform the upgrade by [following these instructions](https://help.prusa3d.com/article/firmware-updating-mmu2s_155118), connecting the USB cable to the side of the MMU2S. Do **not** use OctoPrint for this.
 
-### You may want to consider factor resetting the MMU2S
+### You may want to consider factory resetting the MMU2S
 
 I did it a dozen times. I'm not sure it helped anything, but [here are instructions to factory reset the MMU2S](https://help.prusa3d.com/article/factory-reset-mmu2s_1920).
 
