@@ -34,7 +34,7 @@ As suggested [in a Reddit thread](https://www.reddit.com/r/prusa3d/comments/u00m
 
 ### Use 3mm ID x 4mm OD PTFE tubes
 
-The standard 2mm ID x 3mm OD PTFE tubes provide too much resistance. Use [3mm ID x 4mm OD PTFE Tubes](https://www.amazon.com/dp/B07B8CT1YH/ref=twister_B07CXQKMVD?_encoding=UTF8&psc=1). If you really want to go out of your way, widen the opening using a [hole puncher](https://www.amazon.com/gp/product/B01EIH573K/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1). Make sure to clean up the plastic shards, or they'll end up in your hotend and clog it.
+The standard 2mm ID x 4mm OD PTFE tubes provide too much resistance. Use [3mm ID x 4mm OD PTFE Tubes](https://www.amazon.com/dp/B07B8CT1YH/ref=twister_B07CXQKMVD?_encoding=UTF8&psc=1). If you really want to go out of your way, widen the opening using a [hole puncher](https://www.amazon.com/gp/product/B01EIH573K/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1). Make sure to clean up the plastic shards, or they'll end up in your hotend and clog it.
 
 ### Use a good, low-resistance filament buffer
 
