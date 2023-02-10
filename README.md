@@ -40,7 +40,7 @@ The standard 2mm ID x 3mm OD PTFE tubes provide too much resistance. Use [3mm ID
 
 There are many excellent and popular filament buffer designs out there, such as the [Universal Auto-Rewind Spool Holder](https://www.thingiverse.com/thing:3338467) and the [MMU Slot buffer](https://www.printables.com/model/30811-mmu-slot-buffer). I opted, instead, to remix and improve the [5 Wheel Buffer for MMU2](https://www.printables.com/model/4670-5-wheel-buffer-for-mmu2), solving a few problems it kept having.
 
- My own [Better 5-Wheel Filament Buffer](https://www.printables.com/model/394402-a-better-5-wheel-filament-buffer/comments) design uses [M10 PTFE holders](https://www.amazon.com/gp/product/B01KHN1HWY/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1) and 508 ball bearings.
+ My own [**Better 5-Wheel Filament Buffer**](https://www.printables.com/model/394402-a-better-5-wheel-filament-buffer/comments) design uses [M10 PTFE holders](https://www.amazon.com/gp/product/B01KHN1HWY/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1) and 508 ball bearings.
 
 ### If you're going to upgrade the firmware, don't do it via OctoPrint
 
