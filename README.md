@@ -4,7 +4,7 @@
 
 > I’m a grown-up man, but **this machine brought me to tears**. It was **infuriating** to get going. I can’t recall how often I’ve unscrewed everything,  fastened bolts, and loosened them again. I could not get this upgrade to print anything. Every filament would get stuck, would not load, or would fail to unload. I got really close to the point of just **reverting everything** and going back to my stock i3 MK3S+.
 
-Tim provides [excellent suggestions](https://broddin.be/2021/07/13/troubleshooting-the-prusa-mmu2s/), some of which I repeat below. (Though I did not have to change too many PrusaSlicer settings.)
+Tim provides [excellent suggestions](https://broddin.be/2021/07/13/troubleshooting-the-prusa-mmu2s/), some of which I repeat below. (Though I did not have to change too many PrusaSlicer settings.) Perhaps also take a look at the impressive [Prusa i3 MK3S + MMU2S Project](https://www.antalife.com/2020/07/project-prusa-i3-mk3s-mmu2s.html).
 
 I report here what eventually led to success after three weeks of tinkering. With many thanks to my brother, Jonathan, various Reddit discussions, Prusa forum discussions, and Prusa support.
 
@@ -32,7 +32,7 @@ As noted on the [Idler Screw Tension](https://help.prusa3d.com/article/idler-scr
 
 As suggested [in a Reddit thread](https://www.reddit.com/r/prusa3d/comments/u00mpf/mmu2s_is_pretty_great_with_some_easy_fixes/), you should replace the back of the MMU2S with one that [uses M10 PTFE holders](https://www.printables.com/model/6605-prusa-mmu2-ptfe-holder-m10-passthrough-adapter).
 
-### Use 4mm OD x 3mm ID PTFE tubes
+### Use 3mm ID x 4mm OD PTFE tubes
 
 The standard 2mm ID x 3mm OD PTFE tubes provide too much resistance. Use [3mm ID x 4mm OD PTFE Tubes](https://www.amazon.com/dp/B07B8CT1YH/ref=twister_B07CXQKMVD?_encoding=UTF8&psc=1). If you really want to go out of your way, widen the opening using a [hole puncher](https://www.amazon.com/gp/product/B01EIH573K/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1). Make sure to clean up the plastic shards, or they'll end up in your hotend and clog it.
 
