@@ -34,6 +34,12 @@ As noted on the [Idler Screw Tension](https://help.prusa3d.com/article/idler-scr
 
 As suggested [in a Reddit thread](https://www.reddit.com/r/prusa3d/comments/u00mpf/mmu2s_is_pretty_great_with_some_easy_fixes/), you should replace the back of the MMU2S with one that [uses M10 PTFE holders](https://www.printables.com/model/6605-prusa-mmu2-ptfe-holder-m10-passthrough-adapter).
 
+But, when you make this change...
+
+### Don't push the PTFE tubes too far into the MMU2S
+
+If you push the PTFE tubes too far into the MMU2S, that leads to errors (in my case, all LEDs blinking). Instead, push the PTFE tube all the way in, then pull it back a few millimeter. If you find that the PTFE tubes get pulled in by the MMU2S during printing, you can prevent it by taping some scotch tape or electrical tape around the PTFE tube where it meets the M10 PTFE holder. The increased width prevents the tube from being pulled in too far.
+
 ### Use 3mm ID x 4mm OD PTFE tubes
 
 The standard 2mm ID x 4mm OD PTFE tubes provide too much resistance. Use [3mm ID x 4mm OD PTFE Tubes](https://www.amazon.com/dp/B07B8CT1YH/ref=twister_B07CXQKMVD?_encoding=UTF8&psc=1). If you really want to go out of your way, widen the opening using a [hole puncher](https://www.amazon.com/gp/product/B01EIH573K/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1). Make sure to clean up the plastic shards, or they'll end up in your hotend and clog it.
