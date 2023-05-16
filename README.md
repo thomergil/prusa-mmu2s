@@ -18,6 +18,8 @@ This, too, is reported [by others](https://forum.prusa3d.com/forum/original-prus
 
 Update from 2 months later: when all LEDs blink red/green, I unscrewed the MMU power cables from the mainboard, applied electrical grease on the prongs, and tightened them back to the board. The problem went away.
 
+Update from 4 months later: eventually my MMU2S died in completely erratic behavior that (also) involved all LEDs blinking red/green. I replaced both the Einsy board and the MMU2 board. It has been flawless since.
+
 ### Learn to understand what the MMU2S buttons do
 
 The [MMU2S handbook](https://help.prusa3d.com/downloads/mmu2/handbook) inexplicably does **not** explain what the buttons do. This [handy cheat sheet](https://forum.prusa3d.com/wp-content/uploads/2022/01/Cheat-Sheet.pdf) (as discussed [in this forum thread](https://forum.prusa3d.com/forum/original-prusa-i3-mmu2s-mmu2-hardware-firmware-and-software-help/mmu2s-what-do-the-buttons-do/)) explains it. Most importantly: the middle button tries to see if what you did solved the problem; the right button then proceeds the print.
