@@ -67,3 +67,7 @@ PrusaSlicer lowers the default temperature of PLA (from 215º C to 205º C). Don
 ### Perform the nylock upgrade
 
 Really. Do it. It's worth it. It's finicky and annoying. [Follow the Nylock Mod upgrade instructions](https://www.reddit.com/r/prusa3d/comments/bp440f/full_guide_to_doing_nylock_mod_if_you_havent_you/), which also refer to a [YouTube video showing the Nylock Mod upgrade](https://www.youtube.com/watch?v=hDv73AdiBqM). Another [YouTube video shows the same upgrade](https://www.youtube.com/watch?v=v3Ih51AjLmE). It's annoying to have to do this, but it made half my problems disappear.
+
+### Perform the NoMBa upgrade
+
+The [No MMU Babysitting! (NoMBa) mod](https://www.printables.com/model/283127-no-mmu-babysitting-nomba/files) is complex but life-altering. It has resolved every single problem I ever had with the MMU2S. It essentially widens the PTFE pathway from the MMUS all the way to the hotend. I recommend it.
